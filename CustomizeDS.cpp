@@ -1241,7 +1241,9 @@ int main()
                 cout<<"8.Back to main Meanu\n";
                 cout<<"-----------------------------------------------------------------------------------------------------\n";
                 
-
+                cout<<"Enter your choice: ";
+                cin>>op;
+                
                 if(op == 1)
                 {
                     cout<<"Enter the Value\n";
@@ -1305,6 +1307,8 @@ int main()
                 cout<<"8.Back to main Meanu\n";
                 cout<<"-----------------------------------------------------------------------------------------------------\n";
 
+                cout<<"Enter your choice: ";
+                cin>>op;
         
                 if(op == 1)
                 {
@@ -1368,7 +1372,9 @@ int main()
                 cout<<"8.Back to main Meanu\n";
                 cout<<"-----------------------------------------------------------------------------------------------------\n";
 
-               
+                cout<<"Enter your choice: ";
+                cin>>op;
+                
                 if(op == 1)
                 {
                     cout<<"Enter the value :\n";
@@ -1426,7 +1432,10 @@ int main()
                 cout<<"3.Display\n";
                 cout<<"4.Back to main Meanu\n";
                 
-        
+
+                cout<<"Enter your choice: ";
+                cin>>op;
+                
                 if(op == 1)
                 {
                     cout<<"Enter the value :\n";
@@ -1456,7 +1465,8 @@ int main()
                 cout<<"4.Back to main Meanu\n";
                 cout<<"-----------------------------------------------------------------------------------------------------\n";
 
-               
+                cout<<"Enter your choice: ";
+                cin>>op;
                  
                 if(op == 1)
                 {
